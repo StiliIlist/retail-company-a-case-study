@@ -1,6 +1,3 @@
-# retail-company-a-case-study
-Professional portfolio asset demonstrating $167K business impact and advanced Excel expertise
-
 # Retail Company A - Demand Planning Case Study
 
 ## Overview
